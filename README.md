@@ -1,4 +1,4 @@
-Day One Boilerplate (work in progress)
+Day One Grunt Starter Kit (work in progress)
 ===========
 A simple starter boilerplate for front-end development utilizing:
 
