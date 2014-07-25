@@ -1,6 +1,6 @@
-Day One Grunt Starter Kit (work in progress)
+Day One Grunt Starter Kit
 ===========
-A simple starter boilerplate for front-end development utilizing:
+A simple *(work in progress)* Grunt based starter kit for front-end development utilizing:
 
 * [Grunt](http://gruntjs.com/)
 * [SCSS](http://sass-lang.com/)
